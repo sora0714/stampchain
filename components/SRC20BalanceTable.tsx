@@ -6,7 +6,6 @@ dayjs.extend(relativeTime);
 type SRC20BalanceTableProps = {
   src20Balances: SRC20Balance[];
 };
-
 /**
  * Renders a table displaying SRC20 balances.
  *
